@@ -1,0 +1,8 @@
+[espcam]
+wifi_ssid = "Iphone"
+wifi_psk = "password"
+bot_token = "Server"
+bot_owner_id = 12345678
+
+WIFI_SSID = "Iphone"
+WIFI_PASS = "Password"
